@@ -1,0 +1,15 @@
+C:\Users\nikol\source\repos\OutputDollars\OutputDollars\bin\Debug\net6.0\OutputDollars.exe
+C:\Users\nikol\source\repos\OutputDollars\OutputDollars\bin\Debug\net6.0\OutputDollars.deps.json
+C:\Users\nikol\source\repos\OutputDollars\OutputDollars\bin\Debug\net6.0\OutputDollars.runtimeconfig.json
+C:\Users\nikol\source\repos\OutputDollars\OutputDollars\bin\Debug\net6.0\OutputDollars.dll
+C:\Users\nikol\source\repos\OutputDollars\OutputDollars\bin\Debug\net6.0\OutputDollars.pdb
+C:\Users\nikol\source\repos\OutputDollars\OutputDollars\obj\Debug\net6.0\OutputDollars.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\OutputDollars\OutputDollars\obj\Debug\net6.0\OutputDollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\OutputDollars\OutputDollars\obj\Debug\net6.0\OutputDollars.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\OutputDollars\OutputDollars\obj\Debug\net6.0\OutputDollars.AssemblyInfo.cs
+C:\Users\nikol\source\repos\OutputDollars\OutputDollars\obj\Debug\net6.0\OutputDollars.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\OutputDollars\OutputDollars\obj\Debug\net6.0\OutputDollars.dll
+C:\Users\nikol\source\repos\OutputDollars\OutputDollars\obj\Debug\net6.0\refint\OutputDollars.dll
+C:\Users\nikol\source\repos\OutputDollars\OutputDollars\obj\Debug\net6.0\OutputDollars.pdb
+C:\Users\nikol\source\repos\OutputDollars\OutputDollars\obj\Debug\net6.0\OutputDollars.genruntimeconfig.cache
+C:\Users\nikol\source\repos\OutputDollars\OutputDollars\obj\Debug\net6.0\ref\OutputDollars.dll
