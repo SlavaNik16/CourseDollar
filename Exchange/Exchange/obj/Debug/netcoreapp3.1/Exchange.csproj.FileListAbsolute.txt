@@ -1,0 +1,14 @@
+C:\Users\649-20\source\repos\Exchange\Exchange\obj\Debug\netcoreapp3.1\Exchange.csproj.AssemblyReference.cache
+C:\Users\649-20\source\repos\Exchange\Exchange\obj\Debug\netcoreapp3.1\Exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\649-20\source\repos\Exchange\Exchange\obj\Debug\netcoreapp3.1\Exchange.AssemblyInfoInputs.cache
+C:\Users\649-20\source\repos\Exchange\Exchange\obj\Debug\netcoreapp3.1\Exchange.AssemblyInfo.cs
+C:\Users\649-20\source\repos\Exchange\Exchange\obj\Debug\netcoreapp3.1\Exchange.csproj.CoreCompileInputs.cache
+C:\Users\649-20\source\repos\Exchange\Exchange\bin\Debug\netcoreapp3.1\Exchange.exe
+C:\Users\649-20\source\repos\Exchange\Exchange\bin\Debug\netcoreapp3.1\Exchange.deps.json
+C:\Users\649-20\source\repos\Exchange\Exchange\bin\Debug\netcoreapp3.1\Exchange.runtimeconfig.json
+C:\Users\649-20\source\repos\Exchange\Exchange\bin\Debug\netcoreapp3.1\Exchange.runtimeconfig.dev.json
+C:\Users\649-20\source\repos\Exchange\Exchange\bin\Debug\netcoreapp3.1\Exchange.dll
+C:\Users\649-20\source\repos\Exchange\Exchange\bin\Debug\netcoreapp3.1\Exchange.pdb
+C:\Users\649-20\source\repos\Exchange\Exchange\obj\Debug\netcoreapp3.1\Exchange.dll
+C:\Users\649-20\source\repos\Exchange\Exchange\obj\Debug\netcoreapp3.1\Exchange.pdb
+C:\Users\649-20\source\repos\Exchange\Exchange\obj\Debug\netcoreapp3.1\Exchange.genruntimeconfig.cache
