@@ -1,0 +1,15 @@
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Rectangle\Rectangle\bin\Debug\net6.0\Rectangle.exe
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Rectangle\Rectangle\bin\Debug\net6.0\Rectangle.deps.json
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Rectangle\Rectangle\bin\Debug\net6.0\Rectangle.runtimeconfig.json
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Rectangle\Rectangle\bin\Debug\net6.0\Rectangle.dll
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Rectangle\Rectangle\bin\Debug\net6.0\Rectangle.pdb
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.AssemblyInfo.cs
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.dll
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Rectangle\Rectangle\obj\Debug\net6.0\refint\Rectangle.dll
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.pdb
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.genruntimeconfig.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Rectangle\Rectangle\obj\Debug\net6.0\ref\Rectangle.dll
